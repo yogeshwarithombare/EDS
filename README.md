@@ -1,2 +1,1 @@
-# EDS
-All the assignments, activities and practicals of Essentials of Data Science is present right here
+[!Watch the video](https://img.youtube.com/vi/v=nncLW-BonqM&feature=shared/0.jpg)](https://www.youtube.com/watch?v=v=nncLW-BonqM&feature=shared)
